@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Award
+**AI cup 2022 Spring 肺腺癌病理切片影像之腫瘤氣道擴散偵測II：運用影像分割作法於切割STAS輪廓 -- 優等**  
+**AI cup 2023 Spring 多模態病理嗓音分類競賽 -- 前標**  
+
+# Skills
+**Machine learning**  
+**Deep learning**  
+**Numerical simulation**  
+**Server management**  
