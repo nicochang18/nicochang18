@@ -14,17 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Master theis
-### Intelligent functional near-infrared spectroscopy for assessment of neurofeedback training in pediatric
-We employed non-invasive, non-radiation, and portable near-infrared spectroscopy to measure changes in prefrontal lobe oxygenation during the Posner cueing paradigm in patients with TS, ADHD, and comorbid conditions. Through oxygenation data and deep learning, we developed disease classification models, achieving training and testing accuracies of 82.1\% and 78.9\% in distinguishing healthy controls, TS, and ADHD, and 85.4\% and 63.6\% in distinguishing comorbid cases, TS, and ADHD in the training and testing phases, respectively. Furthermore, we applied near-infrared spectroscopy to conduct neurofeedback training in children with TS. We recorded their oxygenation signals during the Posner cueing paradigm in the first week and attempted to differentiate responders to this therapy, achieving 100\% training accuracy and 75\% testing accuracy. These results confirm the feasibility of using near-infrared spectroscopy combined with deep learning for assessing childhood mental disorders.
+# Projects
+## Classification_of_Pediatric_Psychiatric_Disorders
 
-**Keywords: functional near-infrared spectroscopy, Tourette syndrome, attention deficit, hyperactivity disorder, Posner cueing paradigm, neurofeedback training, deep learning**
-
-Repository: building
+## Machine_Learning_Practice_Tourette_Syndrome
 
 # Award
-**AI cup 2022 Spring 肺腺癌病理切片影像之腫瘤氣道擴散偵測II：運用影像分割作法於切割STAS輪廓 -- 優等**  
-**AI cup 2023 Spring 多模態病理嗓音分類競賽 -- 前標**  
+## AI cup 2022 Spring 肺腺癌病理切片影像之腫瘤氣道擴散偵測II：運用影像分割作法於切割STAS輪廓 -- 優等
+
+## AI cup 2023 Spring 多模態病理嗓音分類競賽 -- 前標
 
 # Skills
 **Programming**
