@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 -->
 # Projects
 ## Classification_of_Pediatric_Psychiatric_Disorders
+- Collaborated with the Pediatrics Department of NTUH Hsinchu Branch.
+- Utilized near-infrared spectroscopy to measure prefrontal cortex oxygenation changes in pediatric patients with common mental disorders during testing.
+- Constructed a CNN model for multi-class classification, distinguishing between healthy and diseased children. Achieved an accuracy rate of approximately 80%.
+- Applied explainable AI to visualize the results.
 
 ## Machine_Learning_Practice_Tourette_Syndrome
+- In this study, we apply neurofeedback training based on functional near-infrared spectroscopy as the behavior therapy for TS patients, and last for 8 weeks.
+- Yale global tic severity scale (YGTSS) is applyed in the first and last week to evaluate the improvment of patients, the mild group and severe group is bounded by score of 25.
+- The SVC helps us the figure out the differences between mild group and severe group.
 
 # Award
 ## AI cup 2022 Spring 肺腺癌病理切片影像之腫瘤氣道擴散偵測II：運用影像分割作法於切割STAS輪廓 -- 優等
